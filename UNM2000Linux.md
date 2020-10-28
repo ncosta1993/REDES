@@ -1,5 +1,7 @@
 # REDES
 
+# Baixar Java
+https://drive.google.com/file/d/1RNub49wuPdhHdQLWG6p8fDsxabegmM0Z/view?usp=sharing
 
 # Setar permissão de executável
 - chmod +x jdk-6u45-linux-x64.bin 
